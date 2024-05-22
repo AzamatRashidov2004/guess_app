@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "path": "^0.12.7"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "client.js",
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "process": "^0.11.10",
+    "undici-types": "^5.26.5",
+    "util": "^0.10.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
